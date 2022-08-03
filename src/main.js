@@ -9,4 +9,11 @@ function soma(num) {
 
 soma(1)
 
+function multiplicar(num) {
+  console.log("chamou a function multiplicar")
+  return num * num
+}
+
+multiplicar(2)
+
 console.log(example, data);
